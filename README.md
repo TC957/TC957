@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @TC957
-- 👀 I’m interested in python
-- 🌱 I’m currently learning javascript
+- 👀 I develop in python
 - 📫 How to reach me: @TC957 on telegram!
 
 <!---
